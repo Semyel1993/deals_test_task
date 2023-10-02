@@ -10,7 +10,7 @@ Deals test-task
 ##### Копирование файлов репозитория на локальную машину
 
 ```
-$ git clone https://gitlab.com/deals_test_task.git
+$ git clone https://github.com/Semyel1993/deals_test_task.git
 $ cd deals_test_task
 ```
 
