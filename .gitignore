@@ -10,7 +10,6 @@ media
 
 
 # Environments
-.env
 .venv
 env/
 venv/
