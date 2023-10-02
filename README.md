@@ -10,8 +10,8 @@ Deals test-task
 ##### Копирование файлов репозитория на локальную машину
 
 ```
-$ git clone https://gitlab.com/<название репозитория>.git
-$ cd <название репозитория>
+$ git clone https://gitlab.com/deals_test_task.git
+$ cd deals_test_task
 ```
 
 ##### Создание и запуск контейнеров
